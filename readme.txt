@@ -6,5 +6,3 @@ Hello, world!
 ФУИТ
 
 
-
-
